@@ -16,5 +16,5 @@ printf("Municipality : %s\n", municipality);
 printf("Mayor       : %s\n", mayor); 
 printf("Population   : %d\n", population);
 printf("i am pushed on today's (17 august 2026)"); 
+printf(" i love coding ");
 return 0; 
-}
